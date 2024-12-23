@@ -40,19 +40,24 @@ Survive Waves: Protect the path against increasingly difficult enemy waves. The 
 
 
 Gameplay Mechanics:
+
   Towers:
+  
     Automatically target and attack enemies within range.
     Can be upgraded to improve damage, attack speed, or range.
     
   Enemies:
+  
     Follow predefined paths toward the goal.
     Possess unique health and speed attributes, with tougher enemies appearing in later waves.
     
   Waves:
+  
     Composed of multiple enemy groups with escalating difficulty.
     Players must manage resources efficiently to counter each wave.
     
   Resources:
+  
     Earned by defeating enemies.
     Used for placing and upgrading towers.
     Technologies Used
@@ -69,14 +74,17 @@ Particle Effects: For visual enhancements like tower attacks and enemy destructi
 
 
 Project Structure:
-    Assets:
-      Scripts: Includes C# scripts for tower behavior, enemy movement, wave management, etc.
-      Prefabs: Contains prefabricated objects like towers, enemies, and the environment.
-      Scenes: Includes the primary game scene with the map and UI elements.
-      Materials: Textures and materials for game visuals.
-      UI: Assets for interface elements such as buttons, health bars, and score displays.
+
+  Assets:
+    
+    Scripts: Includes C# scripts for tower behavior, enemy movement, wave management, etc.
+    Prefabs: Contains prefabricated objects like towers, enemies, and the environment.
+    Scenes: Includes the primary game scene with the map and UI elements.
+    Materials: Textures and materials for game visuals.
+    UI: Assets for interface elements such as buttons, health bars, and score displays.
       
   Scripts:
+  
     Tower.cs: Defines tower attributes and actions.
     Enemy.cs: Handles enemy health, movement, and behaviors.
     WaveManager.cs: Manages the spawning and pacing of enemy waves.
@@ -84,6 +92,7 @@ Project Structure:
     UIManager.cs: Controls interface elements like tower placement, score display, and game over screens.
 
 Contributing:
+
   Contributions are welcome! You can contribute by,
     Introducing new tower types and enemy behaviors.
     Enhancing graphics or animations.
