@@ -60,18 +60,14 @@ Gameplay Mechanics:
   
     Earned by defeating enemies.
     Used for placing and upgrading towers.
-    Technologies Used
     
-Unity: Game engine for development and execution.
+Technologies Used:
 
-C#: Programming language for game logic.
-
-UI System: For menus, tower placement, and heads-up display (HUD).
-
-NavMesh: Unity’s navigation system for enemy pathfinding.
-
-Particle Effects: For visual enhancements like tower attacks and enemy destruction.
-
+    Unity: Game engine for development and execution.
+    C#: Programming language for game logic.
+    UI System: For menus, tower placement, and heads-up display (HUD).
+    NavMesh: Unity’s navigation system for enemy pathfinding.
+    Particle Effects: For visual enhancements like tower attacks and enemy destruction.
 
 Project Structure:
 
