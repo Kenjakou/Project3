@@ -78,7 +78,7 @@ Project Structure:
     UIManager.cs: Controls interface elements like tower placement, score display, and game over screens.
 
 Contributing:
-  Contributions are welcome! You can contribute by:
+  Contributions are welcome! You can contribute by,
     Introducing new tower types and enemy behaviors.
     Enhancing graphics or animations.
     Expanding gameplay mechanics, such as adding more tower upgrade options.
