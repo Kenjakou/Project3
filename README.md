@@ -3,21 +3,27 @@ The source code and assets for a simple Tower Defense game built using Unity. Th
 
 Key Features:
   Tower Placement:
+  
     Players can position different types of towers at designated locations on the map to stop waves of enemies.
 
   Variety of Towers:
+  
     Choose from multiple tower types, each with unique abilities such as slowing enemies, dealing damage over time, or creating splash damage for strategic depth.
 
   Enemy Waves:
+  
     Enemies spawn in waves with progressively increasing difficulty, featuring varied health, speed, and behaviors.
 
   Tower Upgrades:
+  
     Enhance towers to boost their effectiveness, such as increasing damage, range, or special effects.
 
   Scoring System:
+  
     Earn points for defeating enemies, which can be spent on placing and upgrading towers.
 
   Visual Effects:
+  
     Enjoy dynamic effects for attacks, enemy destruction, and tower upgrades, adding to the immersive experience.
 
 How to Play:
